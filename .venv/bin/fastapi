@@ -1,4 +1,4 @@
-#!/Users/kam/Desktop/Projects/ML_projects/Project1/.venv/bin/python
+#!/Users/kam/Desktop/Projects/ML_projects/Project1/.venv/bin/python3.12
 import sys
 from fastapi.cli import main
 if __name__ == '__main__':

@@ -1,7 +1,7 @@
 // ===========================================================
 // Config
 // ===========================================================
-const API_BASE = "http://127.0.0.1:2200";
+const API_BASE = "https://mansik-santulan-score-2-m0tr.onrender.com";
 const PREDICT_URL = `${API_BASE}/predict`;
 const SCORE_MAX = 10; // gauge scale for predicted_mental_health_score
 
